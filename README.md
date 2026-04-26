@@ -1,6 +1,8 @@
 # Synapse
 An OpenSource MentraOS Smart Glasses App - Connections between people + memory
 
+[Example App Reference](https://github.com/Mentra-Community/MentraOS-Display-Example-App)
+
 The goal is to develop a "Social Intelligence Layer" with real-time people context.
 * Recognizes people (opt-in)
 * Shows:
